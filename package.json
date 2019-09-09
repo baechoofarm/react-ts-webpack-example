@@ -4,9 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-
   },
-  "keywords": [],
-  "author": "Byeonggeol Ha",
-  "license": "MIT"
+  "keywords": [
+    "react",
+    "ts",
+    "typescript",
+    "example"
+  ],
+  "author": {
+    "name": "Byeonggeol Ha",
+    "email": "byeonggeol98@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/auaubauhau/react-ts-example",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/auaubauhau/react-ts-example/issues",
+    "email": "byeonggeol98@gmail.com"
+  }
 }

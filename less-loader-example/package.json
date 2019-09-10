@@ -1,0 +1,49 @@
+{
+  "name": "less-loader-example",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "build-dev": "webpack",
+    "build-dev-server": "webpack-dev-server"
+  },
+  "keywords": [
+    "react",
+    "ts",
+    "typescript",
+    "example",
+    "basic"
+  ],
+  "author": {
+    "name": "Byeonggeol Ha",
+    "email": "byeonggeol98@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/auaubauhau/react-ts-example",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/auaubauhau/react-ts-example/issues",
+    "email": "byeonggeol98@gmail.com"
+  },
+  "private": true,
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8",
+    "typescript": "^3.6.2",
+    "ts-loader": "^6.0.4",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "style-loader": "^1.0.0",
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "@types/webpack": "^4.39.1",
+    "webpack-dev-server": "^3.8.0"
+  }
+}

@@ -1,2 +1,2 @@
 # react-ts-webpack-example
-React+Typescript+Webpack based project examples
+React+Typescript+Webpack based project examples (boilerplate)

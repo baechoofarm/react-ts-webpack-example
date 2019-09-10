@@ -1,6 +1,5 @@
 // Created by Byeonggeol Ha on 2019-09-09
 const webpack = require('webpack');
-const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin');
 const path = require('path');
 
 module.exports = {
@@ -21,11 +20,6 @@ module.exports = {
         }]
     },
     resolve: {
-        extensions: ['.ts', '.tsx', '.js', '.jsx'],
-        plugins: [
-            new TsconfigPathsPlugin({
-                configFile: path.resolve(__dirname, "./tsconfig.json")
-            })
-        ]
+        extensions: ['.ts', '.tsx', '.js', '.jsx']
     }
 };

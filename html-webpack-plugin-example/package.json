@@ -10,7 +10,10 @@
     "react",
     "ts",
     "typescript",
+    "webpack",
     "example",
+    "sample",
+    "boilerplate",
     "html",
     "html-webpack-plugin"
   ],

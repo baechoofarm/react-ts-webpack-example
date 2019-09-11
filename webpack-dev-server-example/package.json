@@ -9,8 +9,13 @@
     "react",
     "ts",
     "typescript",
+    "webpack",
     "example",
-    "basic"
+    "sample",
+    "boilerplate",
+    "basic",
+    "webpac-dev-server",
+    "file-watcher"
   ],
   "author": {
     "name": "Byeonggeol Ha",

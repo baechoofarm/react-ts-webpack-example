@@ -9,7 +9,10 @@
     "react",
     "ts",
     "typescript",
+    "webpack",
     "example",
+    "sample",
+    "boilerplate",
     "basic"
   ],
   "author": {

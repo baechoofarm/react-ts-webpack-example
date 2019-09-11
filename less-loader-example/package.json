@@ -10,8 +10,12 @@
     "react",
     "ts",
     "typescript",
+    "webpack",
     "example",
-    "basic"
+    "sample",
+    "boilerplate",
+    "less",
+    "less-loader"
   ],
   "author": {
     "name": "Byeonggeol Ha",

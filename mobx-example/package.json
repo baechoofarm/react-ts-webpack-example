@@ -9,8 +9,13 @@
     "react",
     "ts",
     "typescript",
+    "webpack",
     "example",
-    "basic"
+    "sample",
+    "boilerplate",
+    "basic",
+    "mobx",
+    "mobx-react"
   ],
   "author": {
     "name": "Byeonggeol Ha",

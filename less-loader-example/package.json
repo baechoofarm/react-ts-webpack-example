@@ -19,11 +19,11 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/auaubauhau/react-ts-example",
+    "url": "https://github.com/auaubauhau/react-ts-webpack-example",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/auaubauhau/react-ts-example/issues",
+    "url": "https://github.com/auaubauhau/react-ts-webpack-example/issues",
     "email": "byeonggeol98@gmail.com"
   },
   "private": true,
